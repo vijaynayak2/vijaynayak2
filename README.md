@@ -48,6 +48,34 @@
 
 ---
 
+## 🐍 Play Snake
+
+<p align="center">
+  <a href="https://vijaynayak2.github.io/vijaynayak2/snake.html" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Snake-%F0%9F%90%8D%20Click%20to%20Play-3fb950?style=for-the-badge&logo=github&logoColor=white" alt="Play Snake Game" />
+  </a>
+</p>
+
+<p align="center">
+  <iframe src="https://vijaynayak2.github.io/vijaynayak2/snake.html" width="460" height="600" frameborder="0" style="border-radius:8px"></iframe>
+</p>
+
+> 🎮 Use arrow keys to move · Eat the 🔴 fruit · Grab ⭐ bonus for extra points!
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vijaynayak2/vijaynayak2/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijaynayak2/vijaynayak2/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/vijaynayak2/vijaynayak2/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ## 🚀 Projects
 
 | Project | Description | Tech |
