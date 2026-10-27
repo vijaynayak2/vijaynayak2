@@ -16,7 +16,7 @@
 - 💡 Interested in **Artificial Intelligence, Machine Learning, and Software Development**
 - 🌱 Currently learning and growing with **Java** and **Python**
 - 🤝 Open to collaborating on **interesting projects and open source contributions**
-- 📫 Reach me at: **[your-email@example.com]**
+- 📫 Reach me at: **[vijaynayak2k6@gmail.com]**
 
 ---
 
